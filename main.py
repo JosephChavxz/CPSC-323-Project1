@@ -26,6 +26,6 @@ def print_tokens(tokens):
         print(f"{token}\t{lexeme}")
 
 if __name__ == "__main__":
-    input_file = "323.txt"
+    input_file = "input_scode.txt"
     tokens = lexer(input_file)
     print_tokens(tokens)
