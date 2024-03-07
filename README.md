@@ -4,7 +4,7 @@ Joseph Chavez jchavez0026@csu.fullerton.edu
 
 Duc Minh Ngo minh.nd0703@gmail.com
 
-Erick Alvarado 
+Erick Alvarado Ealvarado007@csu.fullerton.edu
 
 How to run:
 
